@@ -4,5 +4,7 @@ kheer
 pasta
 khaicadi
 
+beans
+pizza
 
 thank you :)
